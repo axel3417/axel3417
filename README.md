@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Goals: linux distributions for developer</p>
+
 
 ###
 
